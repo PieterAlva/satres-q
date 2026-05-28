@@ -1,8 +1,8 @@
 # SATRES-Q
 
-Mini project dashboard monitoring bencana.
+Mini project monitoring bencana berbasis web sederhana.
 
-## Fitur
+## Features
+- Dashboard monitoring
 - Check disaster status
-- Simulasi koneksi satelit
-- Mini deployment GitHub Pages
+- GitHub Pages deployment
